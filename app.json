@@ -16,13 +16,13 @@
     },
     "SUDO": {
       "description": "admin",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "919131652091"
     },
     "PREFIX": {
       "description": "prefix, check for more",
-      "required": false,
-      "value": "."
+      "required": true,
+      "value": "≠"
     },
     "SESSION_ID": {
       "description": "session id",
@@ -31,8 +31,8 @@
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
-      "required": false,
-      "value": "❤️,LyFE"
+      "required": true,
+      "value": "🍁,ARJU 💻"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
@@ -114,8 +114,8 @@
     },
     "PERSONAL_MESSAGE": {
       "description": "Send a Welcome message on personal chat",
-      "required": false,
-      "value": "null"
+      "required": true,
+      "value": "Hello! Im *Software Robo* , My Owner will msg u soon. 🍁"
     },
     "DISABLE_START_MESSAGE": {
       "description": "Disable start Message",
